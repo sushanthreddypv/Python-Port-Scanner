@@ -1,0 +1,4 @@
+Port,Service,Status
+135,epmap,Open
+139,netbios-ssn,Open
+445,microsoft-ds,Open
