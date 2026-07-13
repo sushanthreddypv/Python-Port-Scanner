@@ -114,10 +114,12 @@ Example:
 ## 📸 Screenshots
 
 ### Scanner Output
+https://github.com/sushanthreddypv/Python-Port-Scanner/blob/main/screenshots/csv_output.png
 
 
 
 ### CSV Output
+
 
 
 
